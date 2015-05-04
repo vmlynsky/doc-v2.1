@@ -1,0 +1,9 @@
+Mon May  4 20:01:53 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/multicolvar/rt-link
+++ Test type: make
+++ Arguments: 
+++ Processors: 2
+WARNING using plumed from /usr/local/lib/plumed/
+/home/travis/build/plumed/plumed2/regtest/multicolvar/rt-link/tmp
+Run Make
+Done. Here is the error file:

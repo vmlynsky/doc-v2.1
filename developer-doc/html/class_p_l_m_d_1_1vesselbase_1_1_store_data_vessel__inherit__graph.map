@@ -1,0 +1,10 @@
+<map id="PLMD::vesselbase::StoreDataVessel" name="PLMD::vesselbase::StoreDataVessel">
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1crystallization_1_1_store_vectors_vessel.html" title="PLMD::crystallization\l::StoreVectorsVessel" alt="" coords="512,5,659,51"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1multicolvar_1_1_adjacency_matrix_vessel.html" title="PLMD::multicolvar::\lAdjacencyMatrixVessel" alt="" coords="507,74,664,121"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1multicolvar_1_1_store_central_atoms_vessel.html" title="PLMD::multicolvar::\lStoreCentralAtomsVessel" alt="" coords="499,143,672,190"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1multicolvar_1_1_store_colvar_vessel.html" title="PLMD::multicolvar::\lStoreColvarVessel" alt="" coords="516,213,655,259"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1vesselbase_1_1_store_value_and_weight_vessel.html" title="PLMD::vesselbase::StoreValue\lAndWeightVessel" alt="" coords="483,282,688,329"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1vesselbase_1_1_store_value_vessel.html" title="PLMD::vesselbase::StoreValue\lVessel" alt="" coords="483,351,688,398"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1vesselbase_1_1_vessel.html" title="PLMD::vesselbase::Vessel" alt="" coords="5,187,187,216"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1vesselbase_1_1_moments.html" title="PLMD::vesselbase::Moments" alt="" coords="736,360,931,389"/>
+</map>

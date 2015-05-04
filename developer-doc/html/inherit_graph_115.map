@@ -1,0 +1,26 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_p_l_m_d_1_1vesselbase_1_1_vessel.html" title="PLMD::vesselbase::Vessel" alt="" coords="5,441,187,471"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1vesselbase_1_1_bridge_vessel.html" title="This class allows you to calculate the vessel in one ActionWithVessel. " alt="" coords="245,279,424,326"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1vesselbase_1_1_function_vessel.html" title="Objects that inherit from FunctionVessel can be used (in tandem with PLMD::vesselbase::ActionWithVess..." alt="" coords="240,349,429,395"/>
+<area shape="rect" id="node29" href="$class_p_l_m_d_1_1vesselbase_1_1_shortcut_vessel.html" title="PLMD::vesselbase::Shortcut\lVessel" alt="" coords="240,517,429,563"/>
+<area shape="rect" id="node33" href="$class_p_l_m_d_1_1vesselbase_1_1_store_data_vessel.html" title="Objects that inherit from FunctionVessel can be used (in tandem with PLMD::vesselbase::ActionWithVess..." alt="" coords="235,815,435,862"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1crystallization_1_1_vector_mean.html" title="PLMD::crystallization\l::VectorMean" alt="" coords="512,5,659,51"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1mapping_1_1_spath_vessel.html" title="PLMD::mapping::SpathVessel" alt="" coords="487,75,684,104"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1mapping_1_1_zpath_vessel.html" title="PLMD::mapping::ZpathVessel" alt="" coords="487,128,684,157"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1multicolvar_1_1_d_h_energy.html" title="PLMD::multicolvar::\lDHEnergy" alt="" coords="516,181,655,227"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1vesselbase_1_1_between.html" title="PLMD::vesselbase::Between" alt="" coords="489,251,681,280"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1vesselbase_1_1_less_than.html" title="PLMD::vesselbase::LessThan" alt="" coords="487,304,684,333"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1vesselbase_1_1_max.html" title="PLMD::vesselbase::Max" alt="" coords="503,357,668,387"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1vesselbase_1_1_mean.html" title="PLMD::vesselbase::Mean" alt="" coords="499,411,672,440"/>
+<area shape="rect" id="node23" href="$class_p_l_m_d_1_1vesselbase_1_1_min.html" title="PLMD::vesselbase::Min" alt="" coords="504,464,667,493"/>
+<area shape="rect" id="node25" href="$class_p_l_m_d_1_1vesselbase_1_1_more_than.html" title="PLMD::vesselbase::MoreThan" alt="" coords="487,517,684,547"/>
+<area shape="rect" id="node27" href="$class_p_l_m_d_1_1vesselbase_1_1_sum.html" title="PLMD::vesselbase::Sum" alt="" coords="501,571,669,600"/>
+<area shape="rect" id="node31" href="$class_p_l_m_d_1_1vesselbase_1_1_histogram.html" title="PLMD::vesselbase::Histogram" alt="" coords="485,624,685,653"/>
+<area shape="rect" id="node35" href="$class_p_l_m_d_1_1crystallization_1_1_store_vectors_vessel.html" title="PLMD::crystallization\l::StoreVectorsVessel" alt="" coords="512,677,659,723"/>
+<area shape="rect" id="node37" href="$class_p_l_m_d_1_1multicolvar_1_1_adjacency_matrix_vessel.html" title="PLMD::multicolvar::\lAdjacencyMatrixVessel" alt="" coords="507,746,664,793"/>
+<area shape="rect" id="node39" href="$class_p_l_m_d_1_1multicolvar_1_1_store_central_atoms_vessel.html" title="PLMD::multicolvar::\lStoreCentralAtomsVessel" alt="" coords="499,815,672,862"/>
+<area shape="rect" id="node41" href="$class_p_l_m_d_1_1multicolvar_1_1_store_colvar_vessel.html" title="PLMD::multicolvar::\lStoreColvarVessel" alt="" coords="516,885,655,931"/>
+<area shape="rect" id="node43" href="$class_p_l_m_d_1_1vesselbase_1_1_store_value_and_weight_vessel.html" title="PLMD::vesselbase::StoreValue\lAndWeightVessel" alt="" coords="483,954,688,1001"/>
+<area shape="rect" id="node45" href="$class_p_l_m_d_1_1vesselbase_1_1_store_value_vessel.html" title="PLMD::vesselbase::StoreValue\lVessel" alt="" coords="483,1023,688,1070"/>
+<area shape="rect" id="node47" href="$class_p_l_m_d_1_1vesselbase_1_1_moments.html" title="PLMD::vesselbase::Moments" alt="" coords="736,1032,931,1061"/>
+</map>

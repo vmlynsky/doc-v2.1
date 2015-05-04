@@ -1,0 +1,5 @@
+<map id="PLMD::vesselbase::Moments" name="PLMD::vesselbase::Moments">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1vesselbase_1_1_store_value_vessel.html" title="PLMD::vesselbase::StoreValue\lVessel" alt="" coords="5,179,211,226"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1vesselbase_1_1_store_data_vessel.html" title="Objects that inherit from FunctionVessel can be used (in tandem with PLMD::vesselbase::ActionWithVess..." alt="" coords="8,83,208,130"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1vesselbase_1_1_vessel.html" title="PLMD::vesselbase::Vessel" alt="" coords="17,5,199,35"/>
+</map>
